@@ -1,4 +1,4 @@
-import home from "./app/views/music.js";
+import home from "./app/action/music.js";
 import { primaryColor } from "./color.js";
 import { table } from "table";
 
